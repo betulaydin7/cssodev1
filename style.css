@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(211, 230, 246);
+}
+
+.div{
+    text-align: center;
+}
+
+h1, h2{
+    color:#0088ff;
+}
+
+.ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
